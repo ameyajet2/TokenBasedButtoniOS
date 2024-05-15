@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ConfigReader-master.dia",
+    "emit-module-dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ConfigReader-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ConfigReader-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ConfigReader-master.swiftdeps"
+  },
+  "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/ameya.chandratre/Desktop/ConfigReader/ConfigReader/AppDelegate.swift" : {
+    "const-values" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/ameya.chandratre/Desktop/ConfigReader/ConfigReader/Reader/Button.swift" : {
+    "const-values" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/Button.swiftconstvalues",
+    "dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/Button.d",
+    "diagnostics" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/Button.dia",
+    "index-unit-output-path" : "/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/Button.o",
+    "llvm-bc" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/Button.bc",
+    "object" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/Button.o",
+    "swift-dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/Button.swiftdeps",
+    "swiftmodule" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/Button~partial.swiftmodule"
+  },
+  "/Users/ameya.chandratre/Desktop/ConfigReader/ConfigReader/Reader/ButtonConfig.swift" : {
+    "const-values" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ButtonConfig.swiftconstvalues",
+    "dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ButtonConfig.d",
+    "diagnostics" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ButtonConfig.dia",
+    "index-unit-output-path" : "/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ButtonConfig.o",
+    "llvm-bc" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ButtonConfig.bc",
+    "object" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ButtonConfig.o",
+    "swift-dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ButtonConfig.swiftdeps",
+    "swiftmodule" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ButtonConfig~partial.swiftmodule"
+  },
+  "/Users/ameya.chandratre/Desktop/ConfigReader/ConfigReader/SceneDelegate.swift" : {
+    "const-values" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/ameya.chandratre/Desktop/ConfigReader/ConfigReader/ViewController.swift" : {
+    "const-values" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/ameya.chandratre/Desktop/ConfigReader/build/TokenBasedButton.build/Debug-iphonesimulator/ConfigReader.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  }
+}
